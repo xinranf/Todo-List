@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a data-flickr-embed="true" href="/" title="todo-list"><img src="https://live.staticflickr.com/65535/52401460150_ad127310a3_h.jpg" width="1512" height="1000" alt="todo-list"></a>
+![screenshot](https://live.staticflickr.com/65535/52401460150_ad127310a3_h.jpg)
 
 This project allows for simple task management: add new items in a single click and check finished items. You can also create new task lists by adding `/YourListName` after current url.
 
